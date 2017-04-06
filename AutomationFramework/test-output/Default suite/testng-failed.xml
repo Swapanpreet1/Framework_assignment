@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.automation.framework.testing.Testing">
+        <methods>
+          <include name="SignUp"/>
+          <include name="loadDriver"/>
+        </methods>
+      </class> <!-- com.automation.framework.testing.Testing -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
